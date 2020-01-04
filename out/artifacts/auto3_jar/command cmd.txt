@@ -1,0 +1,3 @@
+java -jar auto3.jar
+
+D:\Learn\auto3\out\artifacts\auto3_jar\java -jar auto3.jar
